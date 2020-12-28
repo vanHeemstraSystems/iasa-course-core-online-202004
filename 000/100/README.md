@@ -7,3 +7,5 @@ The ***Information Technology Architecture Body of Knowledge (ITABoK)*** is a fr
 ITABoK provides the tools and resources needed by individuals and organizations to set industry standards for professional career development and well as hiring practices and incorporation of IT architects into established or developing institutions.
 
 Video [ITABoK Overview](https://youtu.be/js2r5FxENMs)
+
+<img src="https://user-images.githubusercontent.com/12828104/103226421-606bd380-492c-11eb-867e-42c893345b20.jpg" width="50%"></img>
