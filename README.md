@@ -21,7 +21,7 @@ INSTRUCTOR: Rajiv Shah <rajivshah@iasaoffice.org>
 
 ## 000 INTRODUCTION
 
-See [README.md])(./000/README.md)
+See [README.md](./000/README.md)
 
 | Date | Module/filename | Topics | Short date |
 | -- | -- | -- | -- |
