@@ -21,6 +21,8 @@ INSTRUCTOR: Rajiv Shah <rajivshah@iasaoffice.org>
 
 ## 000 INTRODUCTION
 
+See [README.md])(./000/README.md)
+
 | Date | Module/filename | Topics | Short date |
 | -- | -- | -- | -- |
 | Monday, April 27, 2020 | Course introduction | Introduction to ITABoK, Course Schedule Review, Confirmation of course logistics etc. | 4/27 |
