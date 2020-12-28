@@ -27,7 +27,7 @@ INSTRUCTOR: Rajiv Shah <rajivshah@iasaoffice.org>
 | Wednesday, April 29, 2020 | Course introduction | Student Introductions, Challenges, Iasa Proposition | 4/29 |
 | Monday, May 4, 2020 |	Course introduction | What is architecture, Capability Pillars	| 5/4 |
 
-[img](https://github.com/vanHeemstraSystems/iasa-course-core-online-202004/blob/master/Module_Mapping.PNG)
+![Module Mapping](https://github.com/vanHeemstraSystems/iasa-course-core-online-202004/blob/master/Module_Mapping.PNG?raw=true)
 
 ## 100 MODULE 01: Architecture Thinking
 
