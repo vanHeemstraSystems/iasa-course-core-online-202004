@@ -23,9 +23,9 @@ INSTRUCTOR: Rajiv Shah <rajivshah@iasaoffice.org>
 
 | Date | Module/filename | Topics | Short date |
 | -- | -- | -- | -- |
-| Monday, April 27, 2020 | Course introduction | Introduction to ITABoK, | Course Schedule Review | Confirmation of course logistics etc. | 4/27 |
-| Wednesday, April 29, 2020 | Course introduction | Student Introductions | Challenges| Iasa Proposition | 4/29 |
-| Monday, May 4, 2020 |	Course introduction | What is architecture | Capability Pillars	| 5/4 |
+| Monday, April 27, 2020 | Course introduction | Introduction to ITABoK, Course Schedule Review, Confirmation of course logistics etc. | 4/27 |
+| Wednesday, April 29, 2020 | Course introduction | Student Introductions, Challenges, Iasa Proposition | 4/29 |
+| Monday, May 4, 2020 |	Course introduction | What is architecture, Capability Pillars	| 5/4 |
 
 ## 100 MODULE 01: Architecture Thinking
 
@@ -43,8 +43,8 @@ See [README.md](./200/README.md)
 
 | Date | Module/filename | Topics | Short date |
 | -- | -- | -- | -- |
-| Monday, May 18, 2020 | MODULE 02: Architecture Engagement | Role & Skills | Engagement | 5/18 |
-| Wednesday, May 20, 2020 | MODULE 02: Architecture Engagement | Environment |	Relationships | Work & Deliverables | 5/20 |
+| Monday, May 18, 2020 | MODULE 02: Architecture Engagement | Role & Skills, Engagement | 5/18 |
+| Wednesday, May 20, 2020 | MODULE 02: Architecture Engagement | Environment, Relationships, Work & Deliverables | 5/20 |
 
 ## 300 MODULE 03: Architecture Demand
 
@@ -52,8 +52,8 @@ See [README.md](./300/README.md)
 
 | Date | Module/filename | Topics | Short date |
 | -- | -- | -- | -- |
-| Monday, May 25, 2020 | MODULE 03: Architecture Demand | Business Model | Customer Development	| 5/25 |
-| Wednesday, May 27, 2020 | MODULE 03: Architecture Demand | Business Capabilities | Value Management |	5/27 |
+| Monday, May 25, 2020 | MODULE 03: Architecture Demand | Business Model, Customer Development | 5/25 |
+| Wednesday, May 27, 2020 | MODULE 03: Architecture Demand | Business Capabilities, Value Management |	5/27 |
 | Monday, June 1, 2020 | MODULE 03: Architecture Demand	| Portfolio & Priorities | 6/1 |
 
 ## 400 MODULE 04: Architecture Supply
@@ -62,8 +62,8 @@ See [README.md](./400/README.md)
 
 | Date | Module/filename | Topics | Short date |
 | -- | -- | -- | -- |
-| Wednesday, June 3, 2020 | MODULE 04: Architecture Supply | Service Thinking |	Architecture Options | 6/3 |
-| Monday, June 8, 2020 | MODULE 04: Architecture Supply	| Language of Architecture | Creating Architecture | Assess the Architecture | 6/8|
+| Wednesday, June 3, 2020 | MODULE 04: Architecture Supply | Service Thinking,	Architecture Options | 6/3 |
+| Monday, June 8, 2020 | MODULE 04: Architecture Supply	| Language of Architecture, Creating Architecture, Assess the Architecture | 6/8|
 
 ## 500 MODULE 05: Architecture Practice
 
@@ -71,8 +71,8 @@ See [README.md](./500/README.md)
 
 | Date | Module/filename | Topics | Short date |
 | -- | -- | -- | -- |
-| Wednesday, June 10, 2020 | MODULE 05: Architecture Practice |	Change Happens | Skills Assessment | 6/10 |
-| Monday, June 15, 2020 | MODULE 05: Architecture Practice | Culture Hacking | Maturity Assessment | Engagement Model |	6/15 |
+| Wednesday, June 10, 2020 | MODULE 05: Architecture Practice |	Change Happens, Skills Assessment | 6/10 |
+| Monday, June 15, 2020 | MODULE 05: Architecture Practice | Culture Hacking, Maturity Assessment, Engagement Model | 6/15 |
 
 ## 600 Summary
 
