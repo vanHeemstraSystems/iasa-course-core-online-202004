@@ -19,7 +19,8 @@ COURSE TEAMS: Teams
 
 INSTRUCTOR: Rajiv Shah <rajivshah@iasaoffice.org>
 
-| Date |	Module/filename	| Topics			| Short date |
+| Date |	Module/filename	| Topics | Short date |
+| -- | -- | -- | -- |
 | Monday, April 27, 2020 | Course introduction | Introduction to ITABoK, | Course Schedule Review | Confirmation of course logistics etc. | 4/27 |
 | Wednesday, April 29, 2020 | Course introduction | Student Introductions | Challenges| Iasa Proposition | 4/29 |
 | Monday, May 4, 2020 |	Course introduction | What is architecture | Capability Pillars	| 5/4 |
